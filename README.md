@@ -12,3 +12,5 @@
 - Recursion
 - Backtracing
 - Binary Search
+- Dynamic Programming
+- Greedy Technique
